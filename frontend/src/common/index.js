@@ -1,4 +1,4 @@
-const backend_Domain = "https://userauthapp-qcw0.onrender.com" 
+const backend_Domain = "http://localhost:8080" 
 
 const SummaryApi = {
     signup: {
